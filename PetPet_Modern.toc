@@ -9,4 +9,4 @@
 ## LoadOnDemand: 0
 ## SavedVariables: PetPet_ModernDB
 
-PetPet.lua
+PetPet_Modern.lua
