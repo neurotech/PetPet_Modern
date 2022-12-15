@@ -1,0 +1,18 @@
+{
+  "name": "petpet_modern",
+  "version": "0.0.1",
+  "description": "Summon a random pet when you start moving.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neurotech/PetPet_Modern.git"
+  },
+  "scripts": {
+    "release:major": "npm version major && git push --follow-tags",
+    "release:minor": "npm version minor && git push --follow-tags",
+    "release:patch": "npm version patch && git push --follow-tags"
+  },
+  "author": "Tim Douglas",
+  "license": "MIT",
+  "homepage": "https://github.com/neurotech/PetPet_Modern#readme",
+  "private": true
+}

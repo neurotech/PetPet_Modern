@@ -1,0 +1,12 @@
+## Interface: 100002
+## X-Curse-Project-ID: 686613
+## Title: |cff7873ffPet|r|cffffffffPet|r Modern
+## Notes: Summon a random pet when you start moving.
+## URL: https://www.curseforge.com/wow/addons/petpet-modern
+## Author: neurotech
+## Version: @project-version@
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: PetPetDB
+
+PetPet.lua
