@@ -1,6 +1,6 @@
 {
   "name": "petpet_modern",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Summon a random pet when you start moving.",
   "repository": {
     "type": "git",
