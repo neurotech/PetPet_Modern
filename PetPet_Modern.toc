@@ -1,4 +1,4 @@
-## Interface: 100002
+## Interface: 100207
 ## X-Curse-Project-ID: 737281
 ## Title: |cff7873ffPet|r|cffffffffPet|r Modern
 ## Notes: Summon a random pet when you start moving.
