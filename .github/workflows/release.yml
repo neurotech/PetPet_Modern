@@ -22,4 +22,4 @@ jobs:
       - name: Release for Modern
         uses: BigWigsMods/packager@v2
         with:
-          args: -m .pkgmeta -w 0 -a 0
+          args: -m .pkgmeta -S
